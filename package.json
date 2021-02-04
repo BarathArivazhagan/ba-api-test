@@ -1,7 +1,7 @@
 {
-  "name": "ba-api",
+  "name": "nodejs-github-action-lab",
   "version": "1.0.0",
-  "description": "BA API",
+  "description": "nodejs-github-action-lab",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
