@@ -1,7 +1,7 @@
 # BA API TASK
 
 
-# Local Development Setup
+## Local Development Setup
 
 ## Using Docker
 
@@ -40,7 +40,6 @@ Server: Docker Engine - Community
   Go version:       go1.13.15
 ```
 
-```
 
 * Build the docker images:
 
@@ -58,4 +57,5 @@ docker images
 
 ```
 docker run --name ba-api -p 8080:8080 -d ba-api:1.0.0
+
 ```
